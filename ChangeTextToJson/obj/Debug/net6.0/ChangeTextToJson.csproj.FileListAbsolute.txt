@@ -1,0 +1,17 @@
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\bin\Debug\net6.0\ChangeTextToJson.exe
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\bin\Debug\net6.0\ChangeTextToJson.deps.json
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\bin\Debug\net6.0\ChangeTextToJson.runtimeconfig.json
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\bin\Debug\net6.0\ChangeTextToJson.dll
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\bin\Debug\net6.0\ChangeTextToJson.pdb
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.csproj.AssemblyReference.cache
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.AssemblyInfoInputs.cache
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.AssemblyInfo.cs
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.csproj.CoreCompileInputs.cache
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.dll
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\refint\ChangeTextToJson.dll
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.pdb
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.genruntimeconfig.cache
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ref\ChangeTextToJson.dll
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\arcan\OneDrive\Desktop\Vscode BaiTap\ChangeTextToJson\ChangeTextToJson\obj\Debug\net6.0\ChangeTextToJson.csproj.CopyComplete
